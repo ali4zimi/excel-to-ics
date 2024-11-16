@@ -1,4 +1,4 @@
-# Create calender file (ics) from excel file:
+# Create calendar file (ics) from excel file:
 This Python script reads event data from an Excel file and generates an .ics calendar file that can be imported into calendar applications like Google Calendar, Outlook, and Apple Calendar. It uses `openpyxl` to handle Excel files.
 
 &nbsp;
